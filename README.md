@@ -4,9 +4,9 @@ DEMO = https://sunhwa508.github.io/weather-app/
 
 
 ## Available Scripts
-![content1](https://user-images.githubusercontent.com/61695175/83249227-3b21b600-a1e1-11ea-8ede-745554b26b07.png){: width="100" height="100"}
-![image](https://user-images.githubusercontent.com/61695175/83249327-61475600-a1e1-11ea-954c-743b3f1a77dd.png){: width="" height=""}
-![image](https://user-images.githubusercontent.com/61695175/83249374-6efcdb80-a1e1-11ea-9293-798ea2bd2587.png){: width="" height=""}
+![content1](https://user-images.githubusercontent.com/61695175/83249227-3b21b600-a1e1-11ea-8ede-745554b26b07.png){:width="100" height="100"}
+![image](https://user-images.githubusercontent.com/61695175/83249327-61475600-a1e1-11ea-954c-743b3f1a77dd.png){: width="100" height="200"}
+![image](https://user-images.githubusercontent.com/61695175/83249374-6efcdb80-a1e1-11ea-9293-798ea2bd2587.png){: width="100" height="200"}
 
 
 ### `yarn start`
