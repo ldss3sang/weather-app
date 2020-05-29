@@ -51,6 +51,7 @@ Login/SignUp 페이지 (로그인과 회원가입부분을 한 페이지에 구�
 details 날씨의 디테일을 나타낼 페이지도 따로 만들어 준다.
 
 이제 이 페이지들에 router을 연결할 것이기 때문에 각각의 path를 갖게 될것이다. 이렇게 ⬇⬇
+
 <pre><code> 
     <Switch>
   <Route exact path="/">
@@ -70,7 +71,6 @@ details 날씨의 디테일을 나타낼 페이지도 따로 만들어 준다.
     </Route>
   </Switch>
 </pre></code>
-
 
 ## ✔openweathermap API, navigator.geolocation.getCurrentPosition(handleGeoSucces) 사용자 위치정보 얻기
 우선 앱이 실행되는 동시에 user의 위치탐색 권한을 얻음으로써 user의 위치 (lat,lon) 데이터를 얻는다<br/>
