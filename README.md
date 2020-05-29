@@ -53,7 +53,7 @@ details 날씨의 디테일을 나타낼 페이지도 따로 만들어 준다.
 이제 이 페이지들에 router을 연결할 것이기 때문에 각각의 path를 갖게 될것이다. 이렇게 ⬇⬇
 
 `<pre><code> 
-  `  <Switch>
+   <Switch>
   <Route exact path="/">
   <Main />
   </Route>
@@ -69,7 +69,7 @@ details 날씨의 디테일을 나타낼 페이지도 따로 만들어 준다.
   <Route exact path="/:cityId">
   <CityDetail />
     </Route>
-  </Switch>`
+  </Switch>
 </pre></code>`
 
 ## ✔openweathermap API, navigator.geolocation.getCurrentPosition(handleGeoSucces) 사용자 위치정보 얻기
